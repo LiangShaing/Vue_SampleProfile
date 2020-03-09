@@ -1,0 +1,27 @@
+{
+  "links": {
+    "home": "Home",
+    "about": "About",
+    "english": "EN",
+    "chinese": "CN"
+  },
+  "home": {
+    "title": "Welcome",
+    "introduction": "This is an introduction in English."
+  },
+  "about": {
+    "title": "About",
+    "introduction": "This page is made to give you more informations."
+  },
+  "appDrawer": {
+    "index":"Index",
+    "survey":"survey editor",
+    "dayReport": "Day Report Form",
+    "weekReport": "week Report Form",
+    "monthReport": "Month Report Form",
+    "logout": "logout",
+    "calender": "Calender",
+    "managerSystem": "Manager System",
+    "dashboard":"dashboard"
+  }
+}

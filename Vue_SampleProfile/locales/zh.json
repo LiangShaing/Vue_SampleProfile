@@ -1,0 +1,27 @@
+{
+  "links": {
+    "home": "Accueil",
+    "about": "À propos",
+    "english": "英",
+    "chinese": "中"
+  },
+  "home": {
+    "title": "Bienvenue",
+    "introduction": "Ceci est un texte d'introduction en Français."
+  },
+  "about": {
+    "title": "À propos",
+    "introduction": "Cette page est faite pour vous donner plus d'informations."
+  },
+  "appDrawer": {
+    "index":"首頁",
+    "survey":"問卷編輯器",
+    "dayReport": "日報表",
+    "weekReport": "週報表",
+    "monthReport": "月報表",
+    "logout": "登出",
+    "calender": "行程表",
+    "managerSystem": "後臺管理系統",
+    "dashboard":"報表"
+  }
+}
